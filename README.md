@@ -12,4 +12,4 @@ How it works:
 
 FAQ:
 - Lootrun is a term for opening chests in a given route in Wynncraft
-- Lootrun is a very repetitive task but still needs quite a bit of decision making since it's an open world with enemies
+- Wynncraft is an open-world Minecraft MMORPG server
